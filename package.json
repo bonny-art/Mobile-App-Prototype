@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=mobile-app-prototype",
+    "build": "vite build --base=/mobile-app-prototype/",
     "preview": "vite preview"
   },
   "devDependencies": {
